@@ -1,0 +1,503 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MyProjects\\manage-food-order\\be-web-food-order\\be-web-food-order.csproj": {}
+  },
+  "projects": {
+    "D:\\MyProjects\\manage-food-order\\be-web-food-order\\be-web-food-order.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\be-web-food-order.csproj",
+        "projectName": "be-web-food-order",
+        "projectPath": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\be-web-food-order.csproj",
+        "packagesPath": "C:\\Users\\ThinkPad P1-Gen2\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ThinkPad P1-Gen2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.ApplicationService\\WFO.Auth.ApplicationService.csproj": {
+                "projectPath": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.ApplicationService\\WFO.Auth.ApplicationService.csproj"
+              },
+              "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Shared\\WFO.Shared.ApplicationService\\WFO.Shared.ApplicationService.csproj": {
+                "projectPath": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Shared\\WFO.Shared.ApplicationService\\WFO.Shared.ApplicationService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.ApplicationService\\WFO.Auth.ApplicationService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.ApplicationService\\WFO.Auth.ApplicationService.csproj",
+        "projectName": "WFO.Auth.ApplicationService",
+        "projectPath": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.ApplicationService\\WFO.Auth.ApplicationService.csproj",
+        "packagesPath": "C:\\Users\\ThinkPad P1-Gen2\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.ApplicationService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ThinkPad P1-Gen2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.Dtos\\WFO.Auth.Dtos.csproj": {
+                "projectPath": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.Dtos\\WFO.Auth.Dtos.csproj"
+              },
+              "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.Infrastructure\\WFO.Auth.Infrastructures.csproj": {
+                "projectPath": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.Infrastructure\\WFO.Auth.Infrastructures.csproj"
+              },
+              "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Shared\\WFO.Shared.ApplicationService\\WFO.Shared.ApplicationService.csproj": {
+                "projectPath": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Shared\\WFO.Shared.ApplicationService\\WFO.Shared.ApplicationService.csproj"
+              },
+              "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Shared\\WFO.Shared.Constant\\WFO.Shared.Constant.csproj": {
+                "projectPath": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Shared\\WFO.Shared.Constant\\WFO.Shared.Constant.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.Domain\\WFO.Auth.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.Domain\\WFO.Auth.Domain.csproj",
+        "projectName": "WFO.Auth.Domain",
+        "projectPath": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.Domain\\WFO.Auth.Domain.csproj",
+        "packagesPath": "C:\\Users\\ThinkPad P1-Gen2\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ThinkPad P1-Gen2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Shared\\WFO.Shared.Constant\\WFO.Shared.Constant.csproj": {
+                "projectPath": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Shared\\WFO.Shared.Constant\\WFO.Shared.Constant.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.Dtos\\WFO.Auth.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.Dtos\\WFO.Auth.Dtos.csproj",
+        "projectName": "WFO.Auth.Dtos",
+        "projectPath": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.Dtos\\WFO.Auth.Dtos.csproj",
+        "packagesPath": "C:\\Users\\ThinkPad P1-Gen2\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ThinkPad P1-Gen2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.Infrastructure\\WFO.Auth.Infrastructures.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.Infrastructure\\WFO.Auth.Infrastructures.csproj",
+        "projectName": "WFO.Auth.Infrastructures",
+        "projectPath": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.Infrastructure\\WFO.Auth.Infrastructures.csproj",
+        "packagesPath": "C:\\Users\\ThinkPad P1-Gen2\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ThinkPad P1-Gen2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.Domain\\WFO.Auth.Domain.csproj": {
+                "projectPath": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.Domain\\WFO.Auth.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Shared\\WFO.Shared.ApplicationService\\WFO.Shared.ApplicationService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Shared\\WFO.Shared.ApplicationService\\WFO.Shared.ApplicationService.csproj",
+        "projectName": "WFO.Shared.ApplicationService",
+        "projectPath": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Shared\\WFO.Shared.ApplicationService\\WFO.Shared.ApplicationService.csproj",
+        "packagesPath": "C:\\Users\\ThinkPad P1-Gen2\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Shared\\WFO.Shared.ApplicationService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ThinkPad P1-Gen2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Shared\\WFO.Shared.Constant\\WFO.Shared.Constant.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Shared\\WFO.Shared.Constant\\WFO.Shared.Constant.csproj",
+        "projectName": "WFO.Shared.Constant",
+        "projectPath": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Shared\\WFO.Shared.Constant\\WFO.Shared.Constant.csproj",
+        "packagesPath": "C:\\Users\\ThinkPad P1-Gen2\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Shared\\WFO.Shared.Constant\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ThinkPad P1-Gen2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

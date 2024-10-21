@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>be_web_food_order</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="Services\Auth\WFO.Auth.ApplicationService\WFO.Auth.ApplicationService.csproj" />
+    <ProjectReference Include="Services\Shared\WFO.Shared.ApplicationService\WFO.Shared.ApplicationService.csproj" />
+  </ItemGroup>
+
+</Project>

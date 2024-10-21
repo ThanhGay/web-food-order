@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{021091AF-9AB5-4882-B277-ABD7FC1B9CD3}|Services\\Auth\\WFO.Auth.ApplicationService\\WFO.Auth.ApplicationService.csproj|d:\\myprojects\\manage-food-order\\be-web-food-order\\services\\auth\\wfo.auth.applicationservice\\startup\\authstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021091AF-9AB5-4882-B277-ABD7FC1B9CD3}|Services\\Auth\\WFO.Auth.ApplicationService\\WFO.Auth.ApplicationService.csproj|solutionrelative:services\\auth\\wfo.auth.applicationservice\\startup\\authstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C98D6495-B7D8-49E6-961F-4C7A2F2A2D81}|be-web-food-order.csproj|d:\\myprojects\\manage-food-order\\be-web-food-order\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C98D6495-B7D8-49E6-961F-4C7A2F2A2D81}|be-web-food-order.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{021091AF-9AB5-4882-B277-ABD7FC1B9CD3}|Services\\Auth\\WFO.Auth.ApplicationService\\WFO.Auth.ApplicationService.csproj|d:\\myprojects\\manage-food-order\\be-web-food-order\\services\\auth\\wfo.auth.applicationservice\\usermodule\\implements\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021091AF-9AB5-4882-B277-ABD7FC1B9CD3}|Services\\Auth\\WFO.Auth.ApplicationService\\WFO.Auth.ApplicationService.csproj|solutionrelative:services\\auth\\wfo.auth.applicationservice\\usermodule\\implements\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{021091AF-9AB5-4882-B277-ABD7FC1B9CD3}|Services\\Auth\\WFO.Auth.ApplicationService\\WFO.Auth.ApplicationService.csproj|d:\\myprojects\\manage-food-order\\be-web-food-order\\services\\auth\\wfo.auth.applicationservice\\common\\authservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021091AF-9AB5-4882-B277-ABD7FC1B9CD3}|Services\\Auth\\WFO.Auth.ApplicationService\\WFO.Auth.ApplicationService.csproj|solutionrelative:services\\auth\\wfo.auth.applicationservice\\common\\authservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{021091AF-9AB5-4882-B277-ABD7FC1B9CD3}|Services\\Auth\\WFO.Auth.ApplicationService\\WFO.Auth.ApplicationService.csproj|d:\\myprojects\\manage-food-order\\be-web-food-order\\services\\auth\\wfo.auth.applicationservice\\usermodule\\abstracts\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021091AF-9AB5-4882-B277-ABD7FC1B9CD3}|Services\\Auth\\WFO.Auth.ApplicationService\\WFO.Auth.ApplicationService.csproj|solutionrelative:services\\auth\\wfo.auth.applicationservice\\usermodule\\abstracts\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC9575B-922D-4DB4-8422-BA69089A26CA}|Services\\Auth\\WFO.Auth.Infrastructure\\WFO.Auth.Infrastructures.csproj|d:\\myprojects\\manage-food-order\\be-web-food-order\\services\\auth\\wfo.auth.infrastructure\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC9575B-922D-4DB4-8422-BA69089A26CA}|Services\\Auth\\WFO.Auth.Infrastructure\\WFO.Auth.Infrastructures.csproj|solutionrelative:services\\auth\\wfo.auth.infrastructure\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:02:48.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.ApplicationService\\UserModule\\Implements\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\Auth\\WFO.Auth.ApplicationService\\UserModule\\Implements\\AuthService.cs",
+              "ToolTip": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.ApplicationService\\UserModule\\Implements\\AuthService.cs",
+              "RelativeToolTip": "Services\\Auth\\WFO.Auth.ApplicationService\\UserModule\\Implements\\AuthService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:58:58.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.ApplicationService\\UserModule\\Abstracts\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\Auth\\WFO.Auth.ApplicationService\\UserModule\\Abstracts\\IAuthService.cs",
+              "ToolTip": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.ApplicationService\\UserModule\\Abstracts\\IAuthService.cs",
+              "RelativeToolTip": "Services\\Auth\\WFO.Auth.ApplicationService\\UserModule\\Abstracts\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:58:26.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthServiceBase.cs",
+              "DocumentMoniker": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.ApplicationService\\Common\\AuthServiceBase.cs",
+              "RelativeDocumentMoniker": "Services\\Auth\\WFO.Auth.ApplicationService\\Common\\AuthServiceBase.cs",
+              "ToolTip": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.ApplicationService\\Common\\AuthServiceBase.cs",
+              "RelativeToolTip": "Services\\Auth\\WFO.Auth.ApplicationService\\Common\\AuthServiceBase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:57:11.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.Infrastructure\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "Services\\Auth\\WFO.Auth.Infrastructure\\AuthDbContext.cs",
+              "ToolTip": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.Infrastructure\\AuthDbContext.cs",
+              "RelativeToolTip": "Services\\Auth\\WFO.Auth.Infrastructure\\AuthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:46:20.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthStartUp.cs",
+              "DocumentMoniker": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.ApplicationService\\Startup\\AuthStartUp.cs",
+              "RelativeDocumentMoniker": "Services\\Auth\\WFO.Auth.ApplicationService\\Startup\\AuthStartUp.cs",
+              "ToolTip": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\Services\\Auth\\WFO.Auth.ApplicationService\\Startup\\AuthStartUp.cs",
+              "RelativeToolTip": "Services\\Auth\\WFO.Auth.ApplicationService\\Startup\\AuthStartUp.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:44:32.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
