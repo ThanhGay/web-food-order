@@ -15,6 +15,7 @@ namespace be_web_food_order
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
             builder.ConfigureAuth(typeof(Program).Namespace);
 
             var app = builder.Build();
