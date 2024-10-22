@@ -1,0 +1,15 @@
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.Constant\bin\Debug\net8.0\WFO.Shared.Constant.deps.json
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.Constant\bin\Debug\net8.0\WFO.Shared.Constant.runtimeconfig.json
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.Constant\bin\Debug\net8.0\WFO.Shared.Constant.dll
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.Constant\bin\Debug\net8.0\WFO.Shared.Constant.pdb
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.Constant\obj\Debug\net8.0\WFO.Shared.Constant.csproj.AssemblyReference.cache
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.Constant\obj\Debug\net8.0\WFO.Shared.Constant.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.Constant\obj\Debug\net8.0\WFO.Shared.Constant.AssemblyInfoInputs.cache
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.Constant\obj\Debug\net8.0\WFO.Shared.Constant.AssemblyInfo.cs
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.Constant\obj\Debug\net8.0\WFO.Shared.Constant.csproj.CoreCompileInputs.cache
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.Constant\obj\Debug\net8.0\WFO.Shared.Constant.sourcelink.json
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.Constant\obj\Debug\net8.0\WFO.Shared.Constant.dll
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.Constant\obj\Debug\net8.0\refint\WFO.Shared.Constant.dll
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.Constant\obj\Debug\net8.0\WFO.Shared.Constant.pdb
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.Constant\obj\Debug\net8.0\WFO.Shared.Constant.genruntimeconfig.cache
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.Constant\obj\Debug\net8.0\ref\WFO.Shared.Constant.dll

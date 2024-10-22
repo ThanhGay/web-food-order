@@ -1,0 +1,15 @@
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Product\WFO.Product.Dtos\bin\Debug\net8.0\WFO.Product.Dtos.deps.json
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Product\WFO.Product.Dtos\bin\Debug\net8.0\WFO.Product.Dtos.runtimeconfig.json
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Product\WFO.Product.Dtos\bin\Debug\net8.0\WFO.Product.Dtos.dll
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Product\WFO.Product.Dtos\bin\Debug\net8.0\WFO.Product.Dtos.pdb
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Product\WFO.Product.Dtos\obj\Debug\net8.0\WFO.Product.Dtos.csproj.AssemblyReference.cache
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Product\WFO.Product.Dtos\obj\Debug\net8.0\WFO.Product.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Product\WFO.Product.Dtos\obj\Debug\net8.0\WFO.Product.Dtos.AssemblyInfoInputs.cache
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Product\WFO.Product.Dtos\obj\Debug\net8.0\WFO.Product.Dtos.AssemblyInfo.cs
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Product\WFO.Product.Dtos\obj\Debug\net8.0\WFO.Product.Dtos.csproj.CoreCompileInputs.cache
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Product\WFO.Product.Dtos\obj\Debug\net8.0\WFO.Product.Dtos.sourcelink.json
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Product\WFO.Product.Dtos\obj\Debug\net8.0\WFO.Product.Dtos.dll
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Product\WFO.Product.Dtos\obj\Debug\net8.0\refint\WFO.Product.Dtos.dll
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Product\WFO.Product.Dtos\obj\Debug\net8.0\WFO.Product.Dtos.pdb
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Product\WFO.Product.Dtos\obj\Debug\net8.0\WFO.Product.Dtos.genruntimeconfig.cache
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Product\WFO.Product.Dtos\obj\Debug\net8.0\ref\WFO.Product.Dtos.dll

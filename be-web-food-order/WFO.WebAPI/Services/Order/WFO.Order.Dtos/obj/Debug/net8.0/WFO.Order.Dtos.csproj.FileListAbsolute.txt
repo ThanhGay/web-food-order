@@ -1,0 +1,15 @@
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Order\WFO.Order.Dtos\bin\Debug\net8.0\WFO.Order.Dtos.deps.json
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Order\WFO.Order.Dtos\bin\Debug\net8.0\WFO.Order.Dtos.runtimeconfig.json
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Order\WFO.Order.Dtos\bin\Debug\net8.0\WFO.Order.Dtos.dll
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Order\WFO.Order.Dtos\bin\Debug\net8.0\WFO.Order.Dtos.pdb
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Order\WFO.Order.Dtos\obj\Debug\net8.0\WFO.Order.Dtos.csproj.AssemblyReference.cache
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Order\WFO.Order.Dtos\obj\Debug\net8.0\WFO.Order.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Order\WFO.Order.Dtos\obj\Debug\net8.0\WFO.Order.Dtos.AssemblyInfoInputs.cache
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Order\WFO.Order.Dtos\obj\Debug\net8.0\WFO.Order.Dtos.AssemblyInfo.cs
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Order\WFO.Order.Dtos\obj\Debug\net8.0\WFO.Order.Dtos.csproj.CoreCompileInputs.cache
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Order\WFO.Order.Dtos\obj\Debug\net8.0\WFO.Order.Dtos.sourcelink.json
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Order\WFO.Order.Dtos\obj\Debug\net8.0\WFO.Order.Dtos.dll
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Order\WFO.Order.Dtos\obj\Debug\net8.0\refint\WFO.Order.Dtos.dll
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Order\WFO.Order.Dtos\obj\Debug\net8.0\WFO.Order.Dtos.pdb
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Order\WFO.Order.Dtos\obj\Debug\net8.0\WFO.Order.Dtos.genruntimeconfig.cache
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Order\WFO.Order.Dtos\obj\Debug\net8.0\ref\WFO.Order.Dtos.dll

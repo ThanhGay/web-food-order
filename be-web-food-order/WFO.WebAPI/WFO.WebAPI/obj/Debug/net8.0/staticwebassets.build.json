@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2M1N1UX0TFDZGQXD7KqIAyyL5TjTI8kSkSrRYFJVnNs=",
+  "Source": "WFO.WebAPI",
+  "BasePath": "_content/WFO.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

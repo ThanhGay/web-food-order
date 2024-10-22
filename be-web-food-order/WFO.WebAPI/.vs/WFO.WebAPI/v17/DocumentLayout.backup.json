@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA3033B-4DB2-4563-BD3F-9821768C97FC}|WFO.WebAPI\\WFO.WebAPI.csproj|d:\\myprojects\\manage-food-order\\be-web-food-order\\wfo.webapi\\wfo.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EA3033B-4DB2-4563-BD3F-9821768C97FC}|WFO.WebAPI\\WFO.WebAPI.csproj|solutionrelative:wfo.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA3033B-4DB2-4563-BD3F-9821768C97FC}|WFO.WebAPI\\WFO.WebAPI.csproj|d:\\myprojects\\manage-food-order\\be-web-food-order\\wfo.webapi\\wfo.webapi\\wfo.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0EA3033B-4DB2-4563-BD3F-9821768C97FC}|WFO.WebAPI\\WFO.WebAPI.csproj|solutionrelative:wfo.webapi\\wfo.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA3033B-4DB2-4563-BD3F-9821768C97FC}|WFO.WebAPI\\WFO.WebAPI.csproj|d:\\myprojects\\manage-food-order\\be-web-food-order\\wfo.webapi\\wfo.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EA3033B-4DB2-4563-BD3F-9821768C97FC}|WFO.WebAPI\\WFO.WebAPI.csproj|solutionrelative:wfo.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA3033B-4DB2-4563-BD3F-9821768C97FC}|WFO.WebAPI\\WFO.WebAPI.csproj|d:\\myprojects\\manage-food-order\\be-web-food-order\\wfo.webapi\\wfo.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA3033B-4DB2-4563-BD3F-9821768C97FC}|WFO.WebAPI\\WFO.WebAPI.csproj|solutionrelative:wfo.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA3033B-4DB2-4563-BD3F-9821768C97FC}|WFO.WebAPI\\WFO.WebAPI.csproj|d:\\myprojects\\manage-food-order\\be-web-food-order\\wfo.webapi\\wfo.webapi\\controllers\\auth\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA3033B-4DB2-4563-BD3F-9821768C97FC}|WFO.WebAPI\\WFO.WebAPI.csproj|solutionrelative:wfo.webapi\\controllers\\auth\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CC3C75-A791-4917-B658-0560A734AA70}|Services\\Auth\\WFO.Auth.ApplicationService\\WFO.Auth.ApplicationService.csproj|d:\\myprojects\\manage-food-order\\be-web-food-order\\wfo.webapi\\services\\auth\\wfo.auth.applicationservice\\usermodule\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CC3C75-A791-4917-B658-0560A734AA70}|Services\\Auth\\WFO.Auth.ApplicationService\\WFO.Auth.ApplicationService.csproj|solutionrelative:services\\auth\\wfo.auth.applicationservice\\usermodule\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CC3C75-A791-4917-B658-0560A734AA70}|Services\\Auth\\WFO.Auth.ApplicationService\\WFO.Auth.ApplicationService.csproj|d:\\myprojects\\manage-food-order\\be-web-food-order\\wfo.webapi\\services\\auth\\wfo.auth.applicationservice\\usermodule\\abstracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CC3C75-A791-4917-B658-0560A734AA70}|Services\\Auth\\WFO.Auth.ApplicationService\\WFO.Auth.ApplicationService.csproj|solutionrelative:services\\auth\\wfo.auth.applicationservice\\usermodule\\abstracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CC3C75-A791-4917-B658-0560A734AA70}|Services\\Auth\\WFO.Auth.ApplicationService\\WFO.Auth.ApplicationService.csproj|d:\\myprojects\\manage-food-order\\be-web-food-order\\wfo.webapi\\services\\auth\\wfo.auth.applicationservice\\startup\\authstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CC3C75-A791-4917-B658-0560A734AA70}|Services\\Auth\\WFO.Auth.ApplicationService\\WFO.Auth.ApplicationService.csproj|solutionrelative:services\\auth\\wfo.auth.applicationservice\\startup\\authstartup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CC3C75-A791-4917-B658-0560A734AA70}|Services\\Auth\\WFO.Auth.ApplicationService\\WFO.Auth.ApplicationService.csproj|d:\\myprojects\\manage-food-order\\be-web-food-order\\wfo.webapi\\services\\auth\\wfo.auth.applicationservice\\usermodule\\implements\\userinforservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CC3C75-A791-4917-B658-0560A734AA70}|Services\\Auth\\WFO.Auth.ApplicationService\\WFO.Auth.ApplicationService.csproj|solutionrelative:services\\auth\\wfo.auth.applicationservice\\usermodule\\implements\\userinforservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C523C34-4887-4784-B648-4FC672334D76}|Services\\Shared\\WFO.Shared.ApplicationService\\WFO.Shared.ApplicationService.csproj|d:\\myprojects\\manage-food-order\\be-web-food-order\\wfo.webapi\\services\\shared\\wfo.shared.applicationservice\\user\\iuserinforservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C523C34-4887-4784-B648-4FC672334D76}|Services\\Shared\\WFO.Shared.ApplicationService\\WFO.Shared.ApplicationService.csproj|solutionrelative:services\\shared\\wfo.shared.applicationservice\\user\\iuserinforservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CC3C75-A791-4917-B658-0560A734AA70}|Services\\Auth\\WFO.Auth.ApplicationService\\WFO.Auth.ApplicationService.csproj|d:\\myprojects\\manage-food-order\\be-web-food-order\\wfo.webapi\\services\\auth\\wfo.auth.applicationservice\\common\\authservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CC3C75-A791-4917-B658-0560A734AA70}|Services\\Auth\\WFO.Auth.ApplicationService\\WFO.Auth.ApplicationService.csproj|solutionrelative:services\\auth\\wfo.auth.applicationservice\\common\\authservicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589B44DC-BE24-492B-AE33-B510722045E3}|Services\\Auth\\WFO.Auth.Domain\\WFO.Auth.Domain.csproj|d:\\myprojects\\manage-food-order\\be-web-food-order\\wfo.webapi\\services\\auth\\wfo.auth.domain\\authcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589B44DC-BE24-492B-AE33-B510722045E3}|Services\\Auth\\WFO.Auth.Domain\\WFO.Auth.Domain.csproj|solutionrelative:services\\auth\\wfo.auth.domain\\authcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589B44DC-BE24-492B-AE33-B510722045E3}|Services\\Auth\\WFO.Auth.Domain\\WFO.Auth.Domain.csproj|d:\\myprojects\\manage-food-order\\be-web-food-order\\wfo.webapi\\services\\auth\\wfo.auth.domain\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589B44DC-BE24-492B-AE33-B510722045E3}|Services\\Auth\\WFO.Auth.Domain\\WFO.Auth.Domain.csproj|solutionrelative:services\\auth\\wfo.auth.domain\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24D50738-AF97-41FD-9335-93CB6B6A080B}|Services\\Auth\\WFO.Auth.Infrastructure\\WFO.Auth.Infrastructure.csproj|d:\\myprojects\\manage-food-order\\be-web-food-order\\wfo.webapi\\services\\auth\\wfo.auth.infrastructure\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24D50738-AF97-41FD-9335-93CB6B6A080B}|Services\\Auth\\WFO.Auth.Infrastructure\\WFO.Auth.Infrastructure.csproj|solutionrelative:services\\auth\\wfo.auth.infrastructure\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64283B8C-6931-4309-8284-B9442E3533F1}|Services\\Shared\\WFO.Shared.Constant\\WFO.Shared.Constant.csproj|d:\\myprojects\\manage-food-order\\be-web-food-order\\wfo.webapi\\services\\shared\\wfo.shared.constant\\database\\dbschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64283B8C-6931-4309-8284-B9442E3533F1}|Services\\Shared\\WFO.Shared.Constant\\WFO.Shared.Constant.csproj|solutionrelative:services\\shared\\wfo.shared.constant\\database\\dbschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\WFO.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WFO.WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\WFO.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WFO.WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T01:42:29.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\WFO.WebAPI\\Controllers\\Auth\\UserController.cs",
+              "RelativeDocumentMoniker": "WFO.WebAPI\\Controllers\\Auth\\UserController.cs",
+              "ToolTip": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\WFO.WebAPI\\Controllers\\Auth\\UserController.cs",
+              "RelativeToolTip": "WFO.WebAPI\\Controllers\\Auth\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:39:16.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\WFO.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WFO.WebAPI\\appsettings.json",
+              "ToolTip": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\WFO.WebAPI\\appsettings.json",
+              "RelativeToolTip": "WFO.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T01:37:29.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WFO.WebAPI.http",
+              "DocumentMoniker": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\WFO.WebAPI\\WFO.WebAPI.http",
+              "RelativeDocumentMoniker": "WFO.WebAPI\\WFO.WebAPI.http",
+              "ToolTip": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\WFO.WebAPI\\WFO.WebAPI.http",
+              "RelativeToolTip": "WFO.WebAPI\\WFO.WebAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-22T01:37:02.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\WFO.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WFO.WebAPI\\Program.cs",
+              "ToolTip": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\WFO.WebAPI\\Program.cs",
+              "RelativeToolTip": "WFO.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:35:11.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthStartUp.cs",
+              "DocumentMoniker": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\Services\\Auth\\WFO.Auth.ApplicationService\\Startup\\AuthStartUp.cs",
+              "RelativeDocumentMoniker": "Services\\Auth\\WFO.Auth.ApplicationService\\Startup\\AuthStartUp.cs",
+              "ToolTip": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\Services\\Auth\\WFO.Auth.ApplicationService\\Startup\\AuthStartUp.cs",
+              "RelativeToolTip": "Services\\Auth\\WFO.Auth.ApplicationService\\Startup\\AuthStartUp.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:30:19.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserInforService.cs",
+              "DocumentMoniker": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\Services\\Auth\\WFO.Auth.ApplicationService\\UserModule\\Implements\\UserInforService.cs",
+              "RelativeDocumentMoniker": "Services\\Auth\\WFO.Auth.ApplicationService\\UserModule\\Implements\\UserInforService.cs",
+              "ToolTip": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\Services\\Auth\\WFO.Auth.ApplicationService\\UserModule\\Implements\\UserInforService.cs",
+              "RelativeToolTip": "Services\\Auth\\WFO.Auth.ApplicationService\\UserModule\\Implements\\UserInforService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:29:40.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserInforService.cs",
+              "DocumentMoniker": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\Services\\Shared\\WFO.Shared.ApplicationService\\User\\IUserInforService.cs",
+              "RelativeDocumentMoniker": "Services\\Shared\\WFO.Shared.ApplicationService\\User\\IUserInforService.cs",
+              "ToolTip": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\Services\\Shared\\WFO.Shared.ApplicationService\\User\\IUserInforService.cs",
+              "RelativeToolTip": "Services\\Shared\\WFO.Shared.ApplicationService\\User\\IUserInforService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:29:19.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\Services\\Auth\\WFO.Auth.ApplicationService\\UserModule\\Implements\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\Auth\\WFO.Auth.ApplicationService\\UserModule\\Implements\\UserService.cs",
+              "ToolTip": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\Services\\Auth\\WFO.Auth.ApplicationService\\UserModule\\Implements\\UserService.cs",
+              "RelativeToolTip": "Services\\Auth\\WFO.Auth.ApplicationService\\UserModule\\Implements\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:27:41.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\Services\\Auth\\WFO.Auth.ApplicationService\\UserModule\\Abstracts\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Auth\\WFO.Auth.ApplicationService\\UserModule\\Abstracts\\IUserService.cs",
+              "ToolTip": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\Services\\Auth\\WFO.Auth.ApplicationService\\UserModule\\Abstracts\\IUserService.cs",
+              "RelativeToolTip": "Services\\Auth\\WFO.Auth.ApplicationService\\UserModule\\Abstracts\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:27:04.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthServiceBase.cs",
+              "DocumentMoniker": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\Services\\Auth\\WFO.Auth.ApplicationService\\Common\\AuthServiceBase.cs",
+              "RelativeDocumentMoniker": "Services\\Auth\\WFO.Auth.ApplicationService\\Common\\AuthServiceBase.cs",
+              "ToolTip": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\Services\\Auth\\WFO.Auth.ApplicationService\\Common\\AuthServiceBase.cs",
+              "RelativeToolTip": "Services\\Auth\\WFO.Auth.ApplicationService\\Common\\AuthServiceBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:26:04.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthCustomer.cs",
+              "DocumentMoniker": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\Services\\Auth\\WFO.Auth.Domain\\AuthCustomer.cs",
+              "RelativeDocumentMoniker": "Services\\Auth\\WFO.Auth.Domain\\AuthCustomer.cs",
+              "ToolTip": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\Services\\Auth\\WFO.Auth.Domain\\AuthCustomer.cs",
+              "RelativeToolTip": "Services\\Auth\\WFO.Auth.Domain\\AuthCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:21:08.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthUser.cs",
+              "DocumentMoniker": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\Services\\Auth\\WFO.Auth.Domain\\AuthUser.cs",
+              "RelativeDocumentMoniker": "Services\\Auth\\WFO.Auth.Domain\\AuthUser.cs",
+              "ToolTip": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\Services\\Auth\\WFO.Auth.Domain\\AuthUser.cs",
+              "RelativeToolTip": "Services\\Auth\\WFO.Auth.Domain\\AuthUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:17:53.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\Services\\Auth\\WFO.Auth.Infrastructure\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "Services\\Auth\\WFO.Auth.Infrastructure\\AuthDbContext.cs",
+              "ToolTip": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\Services\\Auth\\WFO.Auth.Infrastructure\\AuthDbContext.cs",
+              "RelativeToolTip": "Services\\Auth\\WFO.Auth.Infrastructure\\AuthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:15:52.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DbSchema.cs",
+              "DocumentMoniker": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\Services\\Shared\\WFO.Shared.Constant\\Database\\DbSchema.cs",
+              "RelativeDocumentMoniker": "Services\\Shared\\WFO.Shared.Constant\\Database\\DbSchema.cs",
+              "ToolTip": "D:\\MyProjects\\manage-food-order\\be-web-food-order\\WFO.WebAPI\\Services\\Shared\\WFO.Shared.Constant\\Database\\DbSchema.cs",
+              "RelativeToolTip": "Services\\Shared\\WFO.Shared.Constant\\Database\\DbSchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:08:04.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

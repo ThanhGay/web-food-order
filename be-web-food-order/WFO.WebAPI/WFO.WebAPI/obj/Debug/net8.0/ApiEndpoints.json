@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "WFO.WebAPI.Controllers.Auth.UserController",
+    "Method": "CreateUser",
+    "RelativePath": "api/user/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "WFO.Auth.Dtos.UserModule.CreateUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

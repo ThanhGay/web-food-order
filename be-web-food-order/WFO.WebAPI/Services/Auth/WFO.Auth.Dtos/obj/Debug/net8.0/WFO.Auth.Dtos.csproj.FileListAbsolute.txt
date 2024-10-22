@@ -1,0 +1,15 @@
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Auth\WFO.Auth.Dtos\bin\Debug\net8.0\WFO.Auth.Dtos.deps.json
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Auth\WFO.Auth.Dtos\bin\Debug\net8.0\WFO.Auth.Dtos.runtimeconfig.json
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Auth\WFO.Auth.Dtos\bin\Debug\net8.0\WFO.Auth.Dtos.dll
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Auth\WFO.Auth.Dtos\bin\Debug\net8.0\WFO.Auth.Dtos.pdb
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Auth\WFO.Auth.Dtos\obj\Debug\net8.0\WFO.Auth.Dtos.csproj.AssemblyReference.cache
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Auth\WFO.Auth.Dtos\obj\Debug\net8.0\WFO.Auth.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Auth\WFO.Auth.Dtos\obj\Debug\net8.0\WFO.Auth.Dtos.AssemblyInfoInputs.cache
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Auth\WFO.Auth.Dtos\obj\Debug\net8.0\WFO.Auth.Dtos.AssemblyInfo.cs
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Auth\WFO.Auth.Dtos\obj\Debug\net8.0\WFO.Auth.Dtos.csproj.CoreCompileInputs.cache
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Auth\WFO.Auth.Dtos\obj\Debug\net8.0\WFO.Auth.Dtos.sourcelink.json
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Auth\WFO.Auth.Dtos\obj\Debug\net8.0\WFO.Auth.Dtos.dll
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Auth\WFO.Auth.Dtos\obj\Debug\net8.0\refint\WFO.Auth.Dtos.dll
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Auth\WFO.Auth.Dtos\obj\Debug\net8.0\WFO.Auth.Dtos.pdb
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Auth\WFO.Auth.Dtos\obj\Debug\net8.0\WFO.Auth.Dtos.genruntimeconfig.cache
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Auth\WFO.Auth.Dtos\obj\Debug\net8.0\ref\WFO.Auth.Dtos.dll

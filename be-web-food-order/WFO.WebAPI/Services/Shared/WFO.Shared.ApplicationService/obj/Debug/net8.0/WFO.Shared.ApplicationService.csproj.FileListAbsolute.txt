@@ -1,0 +1,15 @@
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.ApplicationService\bin\Debug\net8.0\WFO.Shared.ApplicationService.deps.json
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.ApplicationService\bin\Debug\net8.0\WFO.Shared.ApplicationService.runtimeconfig.json
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.ApplicationService\bin\Debug\net8.0\WFO.Shared.ApplicationService.dll
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.ApplicationService\bin\Debug\net8.0\WFO.Shared.ApplicationService.pdb
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.ApplicationService\obj\Debug\net8.0\WFO.Shared.ApplicationService.csproj.AssemblyReference.cache
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.ApplicationService\obj\Debug\net8.0\WFO.Shared.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.ApplicationService\obj\Debug\net8.0\WFO.Shared.ApplicationService.AssemblyInfoInputs.cache
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.ApplicationService\obj\Debug\net8.0\WFO.Shared.ApplicationService.AssemblyInfo.cs
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.ApplicationService\obj\Debug\net8.0\WFO.Shared.ApplicationService.csproj.CoreCompileInputs.cache
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.ApplicationService\obj\Debug\net8.0\WFO.Shared.ApplicationService.sourcelink.json
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.ApplicationService\obj\Debug\net8.0\WFO.Shared.ApplicationService.dll
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.ApplicationService\obj\Debug\net8.0\refint\WFO.Shared.ApplicationService.dll
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.ApplicationService\obj\Debug\net8.0\WFO.Shared.ApplicationService.pdb
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.ApplicationService\obj\Debug\net8.0\WFO.Shared.ApplicationService.genruntimeconfig.cache
+D:\MyProjects\manage-food-order\be-web-food-order\WFO.WebAPI\Services\Shared\WFO.Shared.ApplicationService\obj\Debug\net8.0\ref\WFO.Shared.ApplicationService.dll
